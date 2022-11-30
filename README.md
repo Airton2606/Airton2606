@@ -1,7 +1,10 @@
 <div>
-  <a href="https://github.com/Airton2606">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airton2606&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airton2606&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Airton2606
+">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airton2606
+_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airton2606
+=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -11,15 +14,22 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação segue a gente nas redes abaixo!
  
 <div>
-  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https:// target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href=">
-  <a href = "">
-  <a href="" >
+<a href="https://www.youtube.com/@airtonsantana1016
+
+" target="_blank"><img src="filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7DColor=white" target="_blank"></a>
+
+<a href="https://instagram.com/airton_modesto/
+  
+" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
+  <a href = "airton2606@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="https://www.linkedin.com/in/airton-santana-17510919a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/Airton2606/Airton2606/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Airton2606
+/Airton2606
+/blob/output/github-contribution-grid-snake.svg)
 
 </div>
